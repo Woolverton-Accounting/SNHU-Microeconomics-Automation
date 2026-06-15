@@ -14,6 +14,10 @@ The goal of this project is to demonstrate how core business logic, economic pri
 * **What it does:** Calculates consumer price sensitivity by evaluating absolute percentage shifts in quantities demanded relative to price fluctuations for ECO-201.
 * **Business Logic:** Utilizes conditional loops to automatically categorize goods as *Elastic*, *Inelastic*, or *Unit Elastic* based on real-world market criteria.
 
+### 3. Desktop Workspace Launcher (`snhu_launcher.py`)
+* **What it does:** Uses Python's native browser handling capabilities to spin up a local development environment instantly.
+* **Business Logic:** Automates the repetitive daily process of manual link navigation by launching academic portals and digital library systems simultaneously with one command execution.
+
 ## Core Technical Skills Demonstrated
 * **Languages:** Python 3.12, SQL (Structured Query Language)
 * **Frameworks/Tools:** SQLite3, Functional Programming, Relational Data Structures
